@@ -43,5 +43,5 @@ of his current location and the next 5 days. User can also get weather updates o
 
 ## App Notification
 <p align="center">
-<img src="https://user-images.githubusercontent.com/38004971/112032627-cbf9c180-8b66-11eb-8f28-5917e23c1eb6.jpg" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/38004971/112032627-cbf9c180-8b66-11eb-8f28-5917e23c1eb6.jpg" width="300" height="100">
 </p>
